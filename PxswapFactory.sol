@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at FtmScan.com on 2021-04-23
-*/
-
 pragma solidity =0.5.16;
 
 
