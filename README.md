@@ -1,0 +1,7 @@
+# Pxswap-contracts
+
+```
+Factory Address: 0x9249f18C6943e3f3Ef437eD9FdFCebf86FD124C1
+
+INIT_CODE_PAIR_HASH: 0x5fdad5a5f3993f67fa6e2486987d8ea2993ad9072d6688047395ebb6e28fcfdd
+```
