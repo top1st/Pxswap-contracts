@@ -291,7 +291,7 @@ library PxswapLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'1df364672a029a126eb9c4d32c13974ea2c04054642df4a5824edc8b8d671f58' // init code hash
+                hex'5fdad5a5f3993f67fa6e2486987d8ea2993ad9072d6688047395ebb6e28fcfdd' // init code hash
             ))));
     }
 
